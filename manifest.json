@@ -1,0 +1,8 @@
+{
+  "name": "Accident Detector",
+  "short_name": "CrashDetect",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": []
+}
